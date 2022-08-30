@@ -1,3 +1,7 @@
+**/*.amlignore
+**/*.amltmp
+**/*.ipynb_aml_checkpoints
+
 #
 src/workshop/data/*.parquet
 src/workshop/data/*.joblib
